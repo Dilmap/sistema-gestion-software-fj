@@ -4,7 +4,7 @@ Proyecto colaborativo desarrollado para la Fase 4 del curso, implementando Progr
 
 ## Integrantes
 - DIEGO RAFAEL ABDALA FLOREZ
-- DANNI DAVID DIAZ CASTRO
+- [Compañero 2]
 - [Compañero 3]
 - [Compañero 4]
 - [Compañero 5]
